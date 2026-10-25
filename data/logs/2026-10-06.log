@@ -1,0 +1,13 @@
+[2026-10-06T03:40:10.561Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-10-06T03:40:18.341Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-10-06T08:00:04.044Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-10-06T08:00:11.927Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-10-06T09:45:00.821Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-10-06T09:45:09.037Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-10-06T10:25:17.340Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-10-06T10:25:25.345Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-10-06T10:26:28.839Z] 로그인 준비 모드 시작
+[2026-10-06T10:26:41.641Z] RESULT=ERROR page.waitForTimeout: Target page, context or browser has been closed
+    at main (C:\Users\Bacassss\Documents\Codex\2026-08-27\d\outputs\aliexpress-coin-checkin\aliexpress-coin.js:161:18)
+[2026-10-06T10:26:46.319Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-10-06T10:26:54.237Z] RESULT=VISITED 코인 페이지를 열었습니다. 이미 출석했거나 방문 즉시 처리되었을 수 있습니다.

@@ -1,0 +1,21 @@
+[2026-09-26T11:59:20.921Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T11:59:21.177Z] 페이지 오류: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aliexpress.com/p/coin-pc-index/index.html
+Call log:
+[2m  - navigating to "https://www.aliexpress.com/p/coin-pc-index/index.html", waiting until "domcontentloaded"[22m
+
+[2026-09-26T11:59:28.181Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-09-26T12:08:27.417Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T12:08:35.587Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-09-26T12:11:32.152Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T12:13:29.505Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T12:13:37.452Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-09-26T12:24:11.426Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T12:24:20.411Z] RESULT=LOGIN_REQUIRED 로그인 갱신 필요
+[2026-09-26T12:48:44.049Z] 로그인 준비 모드 시작
+[2026-09-26T12:49:38.160Z] RESULT=ERROR page.waitForTimeout: Target page, context or browser has been closed
+    at main (C:\Users\Bacassss\Documents\Codex\2026-08-27\d\outputs\aliexpress-coin-checkin\aliexpress-coin.js:161:18)
+[2026-09-26T12:49:47.345Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
+[2026-09-26T12:49:54.851Z] 후속 받기 버튼 우선 클릭: "받기"
+[2026-09-26T12:49:57.742Z] RESULT=SUCCESS 출석/받기 버튼 1개를 처리했습니다: 받기
+[2026-09-26T17:30:23.354Z] RESULT=ALREADY_DONE 출석 회차 2026-09-26는 이미 처리했습니다.
+[2026-09-26T17:34:00.526Z] RESULT=ALREADY_DONE 출석 회차 2026-09-26는 이미 처리했습니다.
