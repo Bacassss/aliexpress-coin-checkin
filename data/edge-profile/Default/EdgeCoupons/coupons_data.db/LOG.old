@@ -1,6 +1,0 @@
-2026/10/24-17:00:08.810 4e4 Reusing MANIFEST C:\Users\Bacassss\Documents\Codex\2026-08-27\d\outputs\aliexpress-coin-checkin\data\edge-profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/10/24-17:00:08.814 4e4 Recovering log #247
-2026/10/24-17:00:08.814 4e4 Reusing old log C:\Users\Bacassss\Documents\Codex\2026-08-27\d\outputs\aliexpress-coin-checkin\data\edge-profile\Default\EdgeCoupons/coupons_data.db/000247.log 
-2026/10/24-17:00:08.844 729c Level-0 table #251: started
-2026/10/24-17:00:08.846 729c Level-0 table #251: 683527 bytes OK
-2026/10/24-17:00:08.848 729c Delete type=0 #247

@@ -1,8 +1,0 @@
-[2026-09-10T08:19:15.998Z] 코인 페이지 열기: https://www.aliexpress.com/p/coin-pc-index/index.html
-[2026-09-10T08:19:16.849Z] 페이지 오류: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.aliexpress.com/p/coin-pc-index/index.html
-Call log:
-[2m  - navigating to "https://www.aliexpress.com/p/coin-pc-index/index.html", waiting until "domcontentloaded"[22m
-
-[2026-09-10T08:19:23.938Z] 후속 받기 버튼 우선 클릭: "받기"
-[2026-09-10T08:19:27.436Z] RESULT=SUCCESS 출석/받기 버튼 1개를 처리했습니다: 받기
-[2026-09-10T08:27:15.219Z] RESULT=ALREADY_DONE 출석 회차 2026-09-10는 이미 처리했습니다.
